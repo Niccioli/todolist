@@ -1,0 +1,4 @@
+br\com\rafaelniccioli\todolist\TodolistApplication.class
+br\com\rafaelniccioli\todolist\user\UserController.class
+br\com\rafaelniccioli\todolist\user\UserRepository.class
+br\com\rafaelniccioli\todolist\user\UserModel.class
